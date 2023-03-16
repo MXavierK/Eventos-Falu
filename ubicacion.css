@@ -1,0 +1,10 @@
+.btn-detalles{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-visita{
+    margin: 50px;
+    padding: 15px;
+ 
+}
